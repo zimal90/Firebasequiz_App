@@ -1,0 +1,67 @@
+ body{
+    background-color: black;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+    background: url('pic2.html.jpg') no-repeat;
+    background-size: cover;
+    }
+    h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    }
+    .container{
+    text-align: center;
+    margin-top: 50px;
+
+    }
+    .btn{
+        color: white;
+        background-color: black;
+        text-align: center;
+         border-radius: 10px;
+         border: 1px solid white;
+        width: 70px;
+        margin-left: 10px;
+        background: none;
+        cursor: pointer;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    } 
+    .container-fluid{
+        margin-top: 100px;
+      background-color: white;
+ color: black;
+     
+    }
+    ol{
+    border-radius: 1px;
+    justify-content: space-between;
+    padding: 15px;
+    text-align: left;
+    margin-left: 0px;
+    
+    }
+    .input{
+    width: 300px;
+
+    
+    }
+    .task{
+        width: 300px;
+        
+        
+        }
+    
+        .delete{
+            width: 300px;
+            
+            
+            }
+    
+
+
